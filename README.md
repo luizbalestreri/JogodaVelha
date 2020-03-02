@@ -1,2 +1,2 @@
 # JogodaVelha
-Simple terminal Tic Tac Toe game in c# 
+Simple terminal Tic Tac Toe game in python
